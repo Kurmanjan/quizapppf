@@ -11,11 +11,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.QuizApp"
-        android:name=".QuizApp">
-        <activity android:name=".QuestionsActivity">
+        android:name="kg.kurmanjan.quizapp.QuizApp">
+        <activity android:name="kg.kurmanjan.quizapp.QuestionsActivity">
         </activity>
-        <activity android:name=".SplashActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="kg.kurmanjan.quizapp.SplashActivity"></activity>
+        <activity android:name="kg.kurmanjan.quizapp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

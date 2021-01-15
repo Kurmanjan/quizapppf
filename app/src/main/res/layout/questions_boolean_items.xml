@@ -5,7 +5,7 @@
 
         <variable
             name="questionsForBoolean"
-            type="kg.nurzhamal.quizapp.model.Question" />
+            type="kg.kurmanjan.quizapp.model.Question" />
 
     </data>
 
